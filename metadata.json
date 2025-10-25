@@ -1,0 +1,7 @@
+{
+  "name": "India CT Scan Discovery",
+  "description": "An application to discover CT scan centers across the top 100 most populous cities in India by analyzing a user-provided CSV file. It uses Gemini with Google Search and Maps grounding to find pincodes and detailed information about scan centers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
